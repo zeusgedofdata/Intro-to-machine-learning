@@ -1,0 +1,10 @@
+data/*
+*.mp4
+.ipynb_checkpoints/
+.vscode/
+data/
+*.zip
+Untitled*
+*.pdf
+*.csv
+europarl_raw/*
